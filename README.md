@@ -2,4 +2,6 @@
 git status
 git init
 pam param
+pararam
+sho
 
